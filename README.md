@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Objective
 
 The purpose of this project is to design and implement a CI/CD pipeline using Jenkins to automate the deployment of an Ecommerce website. 
@@ -444,5 +445,10 @@ We can test out the  application, by inputting our EC2 instance IP address along
 
     <EC2_instance IP:8081>
 ![alt text](<img/img 39..png>)
+=======
+# Automating-deployment-of-an-Ecommerce-Website
+
+.
+>>>>>>> a2a91db2a7ca8577ea254d59f2a1e219f4ca7d98
 
 
